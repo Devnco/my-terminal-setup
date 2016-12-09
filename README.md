@@ -6,7 +6,7 @@ This repository contains a setup to install my default terminal configuration on
 Installation
 ------------
 
-To use it you can clone this repository and run the command `./install.sh`.
+To use it you can clone this repository and run the command `sh install.sh`.
 
 This is a step by step script, you can skip a step if you want. 
 
